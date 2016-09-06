@@ -2,9 +2,9 @@
     "label": "About Us",
     "id": "about"
 }, {
-	"label": "Why Us",
-	"id": "why"
+    "label": "Why Us",
+    "id": "why"
 }, {
-	"label": "Services",
-	"id": "services"
+    "label": "Services",
+    "id": "services"
 }]
