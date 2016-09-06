@@ -1,9 +1,9 @@
 [{
     "label": "About Us",
-    "id": "about",
+    "id": "about"
 }, {
 	"label": "Why Us",
-	"id": "why",
+	"id": "why"
 }, {
 	"label": "Services",
 	"id": "services"
